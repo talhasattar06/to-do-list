@@ -1,2 +1,2 @@
 # to-do-list
-A CLI based To-do List created with TypeScript, Node.js &amp; Inquirer.
+An interactive To-do List created with TypeScript, Node.js, Inquirer &amp; Chalk.
